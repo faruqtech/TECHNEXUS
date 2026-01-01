@@ -1,0 +1,7 @@
+{
+  "name": "TechNexus - Marketplace",
+  "description": "A premium marketplace for phones, laptops, and tech accessories where buyers connect directly with sellers via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
